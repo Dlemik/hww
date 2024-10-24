@@ -1,0 +1,152 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+    background-image: url(https://i.pinimg.com/736x/e6/00/08/e600087644f27739573f504274fb17a2.jpg);
+    background-size: cover;
+}
+
+nav {
+    margin: 10px 0;
+}
+
+nav a {
+    color: #ff9800;
+    text-decoration: none;
+    margin: 0 15px;
+    border: 1px solid #ff9800;
+    border-radius: 5px;
+    width: 80px; 
+    height: 30px; 
+    line-height: 30px; 
+    vertical-align: middle; 
+    background-color: transparent;
+}
+
+nav a{
+    background-color: #ff9800;
+    color: #1e1e1e;
+}
+
+header {
+    background-color: #3e3e3e;
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #ff9800;
+}
+
+ol {
+    margin: 20px 0;
+    color: #f0f0f0;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 4px solid #ff9800;
+    margin: 20px 0;
+    padding-left: 10px;
+}
+
+progress {
+    width: 100%;
+    height: 20px;
+    border-radius: 5px;
+}
+.profile-picture{
+    border: 5px solid #ff9800; 
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #3e3e3e;
+    text-align: center;
+    padding: 20px;
+}
+
+.imagen {
+        border: 5px solid rgb(238, 135, 25);
+        width: 400px;
+        height: 500px
+}
+
+section {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section h2 {
+    font-size: 24px;
+    color: #ffa201;
+}
+
+section p {
+    font-size: 18px;
+    color: #fffdfd;
+}
+
+
+.Imagen {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.Imagen img:first-of-type {
+    border: 5px solid rgb(239, 147, 10); 
+    border-radius: 10px; 
+    margin: 10px; 
+    width: 400px; 
+    height: 500px;
+    object-fit: cover; 
+}
+
+
+.Imagen img:last-of-type {
+    border: 5px solid rgb(255, 153, 0); 
+    border-radius: 10px; 
+    margin: 10px; 
+    width: 400px; 
+    height: 500px; 
+    object-fit: cover; /* container zapolnit etu */
+}
+
+
+/* .Imagen {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Imagen img:first-of-type {
+    border: 5px solid rgb(239, 147, 10); 
+    border-radius: 10px; /
+    margin: 10px; 
+    
+}
+
+.Imagen img:last-of-type {
+    border: 5px solid rgb(255, 153, 0); 
+    border-radius: 10px;
+    margin: 10px;object-fit: cover;
+} */
+
+/* table {
+    margin: 0 auto;
+}
+
+td {
+    text-align: center; 
+}
+
+img {
+    display: block; 
+    margin: 0 auto;
+} */
+
+
+
+
+
+
